@@ -7,24 +7,29 @@
 </p>
 ---
 About
-I am an Associate Professor in the Department of Mechanical Engineering at Chosun University, Gwangju, Republic of Korea.  
-My research focuses on computational mechanics, structural analysis, and engineering mathematics, with applications in mechanical system design and finite element methods.
+I am an Professor in the Department of Mechanical Engineering at Chosun University, Gwangju, Republic of Korea.  
+My research focuses on microfluidics for probing mechanical properties of blood in a microfludic environments.
 ---
 Research Interests
 Area	Keywords
-Computational Mechanics	FEM, structural analysis, contact mechanics
-Engineering Mathematics	Applied calculus, differential equations, vector analysis
-Mechanical System Design	Optimization, kinematic analysis, vibration
-Numerical Methods	Nonlinear solvers, iterative methods, mesh generation
+
+Biomicrofluidics
+Blood rheology
+Micro fabrication
+Blood flow visualization
+
 ---
 Teaching
 Chosun University — Department of Mechanical Engineering
+
 Course	Level
-Engineering Mathematics 1 (공학수학1)	Undergraduate (Year 2, Required)
-Engineering Mathematics 2 (공학수학2)	Undergraduate (Year 2, Required)
-Mechanics of Materials (재료역학)	Undergraduate (Year 2)
-Finite Element Analysis (유한요소법)	Undergraduate / Graduate
-Numerical Methods (수치해석)	Undergraduate
+Engineering Mathematics 1 Undergraduate (Year 2)
+Engineering Mathematics 2 Undergraduate (Year 2)
+Fluid mechanics 1 Undergraduate (Year 2)
+Fluid mechancis 2 undergraduate (Year 2)
+Fluid system design Undergraduate (Year 3)
+
+
 ---
 Selected Publications
 > For a full list, see my [SciProfiles page](https://sciprofiles.com/profile/292784).
@@ -39,6 +44,7 @@ SciProfiles: sciprofiles.com/profile/292784
 ORCID: ![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=flat-square&logo=orcid&logoColor=white)
 Google Scholar: ![Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)
 ---
+
 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yjkang-chosun&show_icons=true&theme=default&hide_border=true&title_color=1F4E79&icon_color=2E75B6&text_color=444441" height="150"/>
