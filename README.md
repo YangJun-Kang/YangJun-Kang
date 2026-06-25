@@ -29,9 +29,13 @@ Chosun University — Department of Mechanical Engineering
 
 Course	Level
 Engineering Mathematics 1 Undergraduate (Year 2)
+
 Engineering Mathematics 2 Undergraduate (Year 2)
+
 Fluid mechanics 1 Undergraduate (Year 2)
+
 Fluid mechancis 2 undergraduate (Year 2)
+
 Fluid system design Undergraduate (Year 3)
 
 
