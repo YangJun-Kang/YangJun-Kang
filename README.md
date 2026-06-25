@@ -9,12 +9,12 @@
 About
 I am an Professor in the Department of Mechanical Engineering at Chosun University, Gwangju, Republic of Korea.  
 My research focuses on microfluidics for probing mechanical properties of blood in a microfludic environments.
+
 ---
-
-
 Research Interests
-Area	Keywords
 
+
+Area	Keywords
 
 Biomicrofluidics
 Blood rheology
