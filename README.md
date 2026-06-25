@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi 강양준👋
 
-About YangJun
- -Since 2014 ~ current: Mechanical engineering, Prof. 
+저는 강양준입니다.
+현재 조선대학교 기계공학과에서 2014년 이후 재직하고 있습니다. 
 
 
 
