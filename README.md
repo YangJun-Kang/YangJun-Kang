@@ -10,17 +10,22 @@ About
 I am an Professor in the Department of Mechanical Engineering at Chosun University, Gwangju, Republic of Korea.  
 My research focuses on microfluidics for probing mechanical properties of blood in a microfludic environments.
 ---
+
+
 Research Interests
 Area	Keywords
+
 
 Biomicrofluidics
 Blood rheology
 Micro fabrication
 Blood flow visualization
 
+
 ---
 Teaching
 Chosun University — Department of Mechanical Engineering
+
 
 Course	Level
 Engineering Mathematics 1 Undergraduate (Year 2)
@@ -37,6 +42,8 @@ Kang, Y.J. et al. — Computational analysis of contact stress distribution in m
 Kang, Y.J. et al. — Finite element modeling of nonlinear structural behavior under cyclic loading, International Journal of Mechanical Sciences.
 Kang, Y.J. et al. — Parametric study on vibration characteristics of rotating machinery components, Applied Sciences, MDPI.
 ---
+
+
 Affiliations & Links
 Institution: Chosun University, Gwangju 61452, Republic of Korea
 Department: Mechanical Engineering
@@ -44,6 +51,7 @@ SciProfiles: sciprofiles.com/profile/292784
 ORCID: ![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=flat-square&logo=orcid&logoColor=white)
 Google Scholar: ![Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)
 ---
+
 
 GitHub Stats
 <p align="center">
