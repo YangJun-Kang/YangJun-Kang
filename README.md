@@ -42,10 +42,15 @@ Fluid system design Undergraduate (Year 3)
 
 ---
 Selected Publications
+
 > For a full list, see my [SciProfiles page](https://sciprofiles.com/profile/292784).
+> 
 Kang, Y.J. et al. — Computational analysis of contact stress distribution in mechanical components, Journal of Mechanical Science and Technology.
+
 Kang, Y.J. et al. — Finite element modeling of nonlinear structural behavior under cyclic loading, International Journal of Mechanical Sciences.
+
 Kang, Y.J. et al. — Parametric study on vibration characteristics of rotating machinery components, Applied Sciences, MDPI.
+
 ---
 
 
