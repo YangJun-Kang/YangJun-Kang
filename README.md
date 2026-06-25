@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-1
-2
-3
+About YangJun
+ -Since 2014 ~ current: Mechanical engineering, Prof. 
 
 
 
